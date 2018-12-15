@@ -1,0 +1,11 @@
+# latex
+*.aux
+*.bcf
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+
+# other stuff
+.DS_Store 
+
